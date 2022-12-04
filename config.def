@@ -1,0 +1,5 @@
+{
+    "token": "your bot token in .env",
+    "prefix": ",",
+    "guildId": "833499146379460628"
+}
